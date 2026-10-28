@@ -1,0 +1,16 @@
+# Datasets (not redistributable)
+data/
+sample_data/
+pixar_dataset_extracted/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Model weights
+*.pt
+*.pth
